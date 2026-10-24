@@ -30,10 +30,10 @@ export function TitanCard() {
           Seu Nome Aqui
         </span>
         <span className="absolute bottom-6 left-6 text-[0.65rem] uppercase tracking-[0.05em] text-gray-4">
-          Titan Card • Demo
+          APPLE CARD • TITANIUM
         </span>
         <span className="absolute bottom-6 right-6 text-[0.85rem] font-bold italic tracking-wide text-background/80">
-          DEMO
+          VISA
         </span>
       </motion.div>
     </motion.div>
