@@ -81,7 +81,7 @@ function Index() {
         </div>
         <nav className="sticky top-0 z-50 flex items-center justify-center border-b-[0.5px] border-line bg-background/70 px-6 py-4 backdrop-blur-xl backdrop-saturate-150">
           <div className="flex items-center gap-2">
-            <span className="flex h-7 w-7 items-center justify-center rounded-full bg-ink text-sm font-bold text-background">T</span>
+            <img src="/logo.png" alt="Logo" className="h-7 w-7 rounded-full object-cover" />
             <span className="text-lg font-semibold tracking-tight">Card</span>
           </div>
         </nav>
